@@ -1,0 +1,6 @@
+const DiscoNjg1MDcyMDI4NjkyNTEyNzY4.XmDc2A.hC6-tRreMENDmL5BHfK9Kc86LM8rd = require('discord.js');
+const bot = new Discord.Client();
+
+bot.login('');
+console.log('Hello World !');
+
