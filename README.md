@@ -1,4 +1,4 @@
-# BotHeimy
+# BonkBot
 
 ## The principals commands
 ### inscription.js
