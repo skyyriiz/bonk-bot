@@ -22,7 +22,7 @@ module.exports = {
             const con = mysql.createConnection({
                 host: "localhost",
                 user: "mike",
-                password: "Petitsavio1",
+                password: "#",
                 database: "lolusers2021"
             });
 
