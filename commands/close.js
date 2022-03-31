@@ -23,7 +23,7 @@ module.exports = {
                 host: "localhost",
                 user: "mike",
                 password: "Petitsavio1",
-                database: "lolusers2021"
+                database: "#"
             });
 
             con.connect(function(err) {
